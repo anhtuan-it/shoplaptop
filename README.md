@@ -4,6 +4,8 @@ Trang chủ<br>
 Chi tiết sản phẩm<br>
 <img src="https://user-images.githubusercontent.com/66792742/87221456-4fd39b00-c396-11ea-84ee-ca297381485f.png"><br>
 Giỏ hàng<br>
-<img src="https://user-images.githubusercontent.com/66792742/87222011-83182900-c39a-11ea-990c-763c174b14a9.png">
+<img src="https://user-images.githubusercontent.com/66792742/87222011-83182900-c39a-11ea-990c-763c174b14a9.png"><br>
+Dashboard Admin<br>
+<img src="https://user-images.githubusercontent.com/66792742/87222063-df7b4880-c39a-11ea-86b3-3fe91bf17402.png">
 
 
