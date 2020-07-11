@@ -1,0 +1,4 @@
+* Admin Account:
+	email: anhtuandev.it@gmail.com
+	password: 123456
+* All accounts use the same password: 123456
