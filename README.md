@@ -1,4 +1,6 @@
 <h1>Website mua bán Laptop</h1>
+Website được xây dựng với các chức năng cơ bản của một trang web thương mại điện tử<br>
+Mục tiêu: cung cấp giao diện người dùng trực quan, dễ sử dụng cho cả phía người dùng và admin
 Trang chủ<br>
 <img src="https://user-images.githubusercontent.com/66792742/87221306-3f6ef080-c395-11ea-9429-6160da39bca5.png"><br>
 Chi tiết sản phẩm<br>
