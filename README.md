@@ -4,7 +4,7 @@ Mục tiêu: cung cấp giao diện người dùng trực quan, dễ sử dụng
 Trang chủ<br>
 <img src="https://user-images.githubusercontent.com/66792742/87221306-3f6ef080-c395-11ea-9429-6160da39bca5.png"><br>
 Chi tiết sản phẩm<br>
-<img src="https://user-images.githubusercontent.com/66792742/87221456-4fd39b00-c396-11ea-84ee-ca297381485f.png"><br>
+<img src="https://user-images.githubusercontent.com/66792742/87371762-35750980-c5b0-11ea-8435-20f666d77bd5.png"><br>
 Giỏ hàng<br>
 <img src="https://user-images.githubusercontent.com/66792742/87222011-83182900-c39a-11ea-990c-763c174b14a9.png"><br>
 Dashboard Admin<br>
