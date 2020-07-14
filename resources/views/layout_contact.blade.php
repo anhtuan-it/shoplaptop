@@ -27,7 +27,7 @@
 </head><!--/head-->
 <body style="background-color: #FFFFFF;">
     <header class="" id="header"><!--header-->
-        <div class="header_top"><!--header_top-->
+        <div class="header_top" style="position: fixed;z-index: 13;width: 100%;"><!--header_top-->
             <div class="container">
                 <div class="row">
                     <div class="col-sm-6">
@@ -90,7 +90,7 @@
             <div class="row">
                 <div class="col-sm-12">
                     <div id="slider-carousel" class="carousel slide" data-ride="carousel">
-                        <ol class="carousel-indicators">
+                        <ol class="carousel-indicators" style="z-index: 1">
                             <li data-target="#slider-carousel" data-slide-to="0" class="active"></li>
                             <li data-target="#slider-carousel" data-slide-to="1"></li>
                             <li data-target="#slider-carousel" data-slide-to="2"></li>

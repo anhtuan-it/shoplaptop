@@ -27,7 +27,7 @@
 </head><!--/head-->
 <body style="background-color: #FFFFFF;">
     <header id="header"><!--header-->
-        <div class="header_top"><!--header_top-->
+        <div class="header_top" style="position: fixed;z-index: 13;width: 100%;"><!--header_top-->
             <div class="container">
                 <div class="row">
                     <div class="col-sm-6">

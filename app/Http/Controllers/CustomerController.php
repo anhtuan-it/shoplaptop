@@ -140,7 +140,7 @@ class CustomerController extends Controller
             }
         // giao dien trang thu hoi don hang
             public function orderManagerCallBack(Request $request) {
-                // tim kiem đơn hàng
+                // tim kiem don hang
                 if($request->isMethod('get')) {
                     $search = $request->search;
                     if($search) {
