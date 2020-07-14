@@ -97,7 +97,6 @@
     <section>
         <div class="container">
             <div class="row">
-                <!-- Hiển thị tất cả sản phẩm -->
                 <div class="col-sm-9 padding-right">
                 @yield('content')
                 </div>
@@ -115,7 +114,6 @@
                         </div>
                     </div>
                     <div class="col-sm-7">
-
                     </div>
                     <div class="col-sm-3"style="width: 21%;">
                         <div class="address">

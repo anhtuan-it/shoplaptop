@@ -3,7 +3,7 @@
 <section id="cart_items">
     <div class="container">
         <div class="breadcrumbs" style="text-align: center">
-            <ol class="breadcrumb">
+            <ol class="breadcrumb"><br><br>
                 <li class="active">
                     <h5>
                         <?php
