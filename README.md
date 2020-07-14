@@ -6,7 +6,7 @@ Trang chủ<br>
 Chi tiết sản phẩm<br>
 <img src="https://user-images.githubusercontent.com/66792742/87371762-35750980-c5b0-11ea-8435-20f666d77bd5.png"><br>
 Giỏ hàng<br>
-<img src="https://user-images.githubusercontent.com/66792742/87222011-83182900-c39a-11ea-990c-763c174b14a9.png"><br>
+<img src="https://user-images.githubusercontent.com/66792742/87371777-3a39bd80-c5b0-11ea-9291-11d8045caff6.png"><br>
 Dashboard Admin<br>
 <img src="https://user-images.githubusercontent.com/66792742/87222063-df7b4880-c39a-11ea-86b3-3fe91bf17402.png">
 
